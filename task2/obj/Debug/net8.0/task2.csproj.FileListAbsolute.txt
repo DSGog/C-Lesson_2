@@ -1,0 +1,15 @@
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\bin\Debug\net8.0\task2.exe
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\bin\Debug\net8.0\task2.deps.json
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\bin\Debug\net8.0\task2.dll
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\bin\Debug\net8.0\task2.pdb
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.sourcelink.json
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.dll
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\refint\task2.dll
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.pdb
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\Users\Dmitr\Desktop\Git\Языки программирования\Lesson 2\task2\obj\Debug\net8.0\ref\task2.dll
